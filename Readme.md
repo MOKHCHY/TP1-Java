@@ -6,7 +6,7 @@
 
 ## Execution n2 - presentation XML
 
-![img2](./screen1/PResSpingXML.png)
+![img2](./screen1/PResSpringXML.png)
 
 ## Execution n3 - presentation avec annotation
 
